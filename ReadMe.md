@@ -1,10 +1,3 @@
----
-title: "ReadMe"
-author: "Alvaro Sanjuan"
-date: "9/27/2020"
-output: pdf_document
----
-
 ## Step 0
 
 First of all the untidy datasets are downloaded and imported into R using the ```data.frame::fread``` function. This includes the measurement data, the subject id and the activity id, for each the train and test populations.
