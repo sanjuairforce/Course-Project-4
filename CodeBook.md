@@ -1,14 +1,3 @@
----
-title: "CodeBook"
-author: "Alvaro Sanjuan"
-date: "9/27/2020"
-output: pdf_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Data Dictionary - Programming Assignment 4
 
 In this file information about the tidy dataset is presented.
